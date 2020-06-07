@@ -3,4 +3,7 @@ def greeting
 end
 
 greeting
- ruby greeting.rb
+greeting
+greeting
+greeting
+greeting
